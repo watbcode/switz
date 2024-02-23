@@ -1,7 +1,7 @@
 {
-  "name": "Some operator",
-  "website": "https://www.example.com",
-  "description": "I operate on some data",
-  "logo": "https://www.example.com/logo.png",
-  "twitter": "https://x.com/example"
+  "name": "BraveCollector",
+  "website": "https://twitter.com/BraveCollector",
+  "description": "Eigenlayer Operator",
+  "logo": "https://pbs.twimg.com/profile_images/1489637767101485056/oBEjRhWj_400x400.jpg",
+  "twitter": "https://twitter.com/BraveCollector"
 }
